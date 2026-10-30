@@ -1,8 +1,8 @@
 # adaptive-dbs-energy-sim
 Biophysical neural mass modeling and energy optimization for closed-loop adaptive Deep Brain Stimulation (DBS)
-
-
-`adaptive-dbs-energy-sim`
+|
+|
+|
 Computational simulation of closed-loop adaptive Deep Brain Stimulation (DBS) versus continuous open-loop stimulation in basal ganglia neural mass models. Python, SciPy, NumPy, Matplotlib.
 
 ### **Adaptive DBS Energy Optimization & Oscillation Suppression in Parkinson's Disease**
